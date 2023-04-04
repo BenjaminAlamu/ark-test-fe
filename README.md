@@ -13,4 +13,4 @@
 - Install all dependencies by running `yarn`
 - Start the server by running `yarn dev`
 
-- [Live API](https://ark-test-fe.vercel.app/)
+- [Demo](https://ark-test-fe.vercel.app/)
