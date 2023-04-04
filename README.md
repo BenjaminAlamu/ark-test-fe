@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+## Build Setup
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Technologies Used
 
-## Recommended IDE Setup
+- [VueJS](https://vuejs.org/)
+- [Tailwind](https://tailwindcss.com/)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Setup
+
+- [Install Node](https://nodejs.org/en/download/) if you do not have it already
+- Create a env file by running `touch.env`
+- Copy the fields from `.env.example` and replace with correct fields
+- Install all dependencies by running `yarn`
+- Start the server by running `yarn dev`
+
+- [Live API](https://ark-test-fe.vercel.app/)
